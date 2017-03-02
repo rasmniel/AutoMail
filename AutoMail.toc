@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: AutoMail
+## Author: Rasmus Nielsen
+## Version: 1.0
+## eMail: rasmniel@gmail.com
+## URL: #
+## Notes: Handles your mail.
+AutoMail.lua
